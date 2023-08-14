@@ -1,4 +1,10 @@
+# LoKo-DevGirls 😈
 ## Hi there 👋
+Welcome to `LoKo-DevGirls` - a networking club exclusively for Korean female software engineers in London!
+Our aim is to bring together like-minded professionals in the tech industry and create a supportive community for female engineers of Korean origin.
+
+If you are interested in LoKo-DevGirls, contact me(@biscoffeater) on Discord! Join us and be a part of amazing network with 30+ Korean female engineers in London!
+
 
 <!--
 
